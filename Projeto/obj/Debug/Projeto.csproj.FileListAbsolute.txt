@@ -1,0 +1,61 @@
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\obj\Debug\Projeto.Forms.Clientes.resources
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\obj\Debug\Projeto.MenuPrincipal.resources
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\obj\Debug\Projeto.Forms.Categorias.resources
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\obj\Debug\Projeto.Forms.Pedidos.resources
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\obj\Debug\Projeto.Forms.Produtos.resources
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\bin\Debug\MySqlConnector.dll
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\bin\Debug\System.Buffers.dll
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\bin\Debug\System.Memory.dll
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\bin\Debug\MySqlConnector.xml
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\bin\Debug\System.Buffers.xml
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\bin\Debug\System.Memory.xml
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\T-Gamer\Documents\Trabalhos do Curso\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\bin\Debug\MySqlConnector.dll
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\bin\Debug\System.Buffers.dll
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\bin\Debug\System.Memory.dll
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\bin\Debug\MySqlConnector.xml
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\bin\Debug\System.Buffers.xml
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\bin\Debug\System.Memory.xml
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.AssemblyReference.cache
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.Categorias.resources
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.Clientes.resources
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\obj\Debug\Projeto.MenuPrincipal.resources
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.Pedidos.resources
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.Produtos.resources
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\bin\Debug\Projeto_1.exe.config
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\bin\Debug\Projeto_1.exe
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\bin\Debug\Projeto_1.pdb
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\obj\Debug\Projeto_1.exe
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\obj\Debug\Projeto_1.pdb
+C:\Users\raphael.cfmaia\Desktop\Projeto\Projeto\obj\Debug\Projeto.Forms.LocalizarPedido.resources
